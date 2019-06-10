@@ -334,7 +334,7 @@ nnt:
 End Function
 ```
 
-We can extract the contents of **function e** using [Cerbero Suite Advancedd](https://cerbero.io/pa/)
+We can extract the contents of **function e**
 
 ```vb
 Function e()
