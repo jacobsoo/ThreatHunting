@@ -6,7 +6,7 @@ If we were to analyse the meta data of the .msg file, we can see that it's sent 
 
 We can see that the attacker abusing the mail server from **gju.edu.jo**
 
-We can also see the original email is sent from as **supplies cspd. <supplies@cspd.gov.jo>** and sent to **recruit@hansung.co.kr**
+We can also see the original email is sent from as **supplies cspd. <supplies@cspd.gov.jo>**
 
 The subject of the email is **Students Migration Verification - Civil Status and passport Department**
 
