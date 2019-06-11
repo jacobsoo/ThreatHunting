@@ -1,5 +1,7 @@
 This is **MuddyWater**
 
+You can read more about it here : https://blog.trendmicro.com/trendlabs-security-intelligence/muddywater-resurfaces-uses-multi-stage-backdoor-powerstats-v3-and-new-post-exploitation-tools/
+
 sha256 : **aed6637aa6d59df253ab2dca749b83561fef03257b069876c8644167f4d7f1a9**
 
 ITW Filename : **Students Migration Verification - Civil Status and passport Department.msg**
