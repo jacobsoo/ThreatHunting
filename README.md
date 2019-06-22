@@ -13,8 +13,14 @@ This is just my personal compilation of malware tracking from whitepaper release
 # Jordan
 [Jordan](./Jordan/Readme.md)
 
+# Mongolia
+[Mongolia](./Mongolia/Readme.md)
+
 # Myanmar
 [Myanmar](./Myanmar/Readme.md)
+
+# Pakistan
+[Pakistan](./Pakistan/Readme.md)
 
 # South Korea
 [South Korea](./South%20Korea/Readme.md)
