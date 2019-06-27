@@ -1,6 +1,9 @@
 ## ThreatHunting
 This is just my personal compilation of malware tracking from whitepaper releases, documents and malware samples from my personal research.
 
+# Azerbaijan
+[Azerbaijan](./Azerbaijan/Readme.md)
+
 # China
 [China](./China/Readme.md)
 
@@ -12,6 +15,9 @@ This is just my personal compilation of malware tracking from whitepaper release
 
 # Jordan
 [Jordan](./Jordan/Readme.md)
+
+# Laos
+[Laos](./Laos/Readme.md)
 
 # Mongolia
 [Mongolia](./Mongolia/Readme.md)
