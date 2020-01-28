@@ -19,6 +19,9 @@ This is just my personal compilation of malware tracking from whitepaper release
 # Laos
 [Laos](./Laos/Readme.md)
 
+# Malaysia
+[Malaysia](./Malaysia/Readme.md)
+
 # Mongolia
 [Mongolia](./Mongolia/Readme.md)
 
